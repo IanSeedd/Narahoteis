@@ -21,9 +21,9 @@ Perguntas de negocio:
 
 Dados padronizados:
 
-* Região 
+* Região
 * Categoria Hotel
-* Quartos de float para int 
+* Quartos de float para int
 
 
 
@@ -62,7 +62,7 @@ Dados sem sentido:
 * Id\_canal float e com dados NaN
 * avaliações nulas? como tratar? regra de negocio?
 * status No-show? o que seria?
-* Possíveis duplicatas 
+* Possíveis duplicatas
 
 Dados padronizados:
 
@@ -71,4 +71,19 @@ Dados padronizados:
 * Padronização do status reserva
 * Padronização pagamentos
 * Duplicatas deletadas
+
+
+
+Funcionários:
+
+Dados sem sentido:
+
+* Salários Nulos
+* Possíveis duplicatas (kleber pires)
+
+Dados padronizados:
+
+
+
+
 
