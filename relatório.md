@@ -43,7 +43,7 @@ Clientes:
 
 Dados sem sentido:
 
-* Estado origem bagunçado
+* Estado origem bagunçado -- Solução: considerar a cidade, pedir pro chatgpt fazer um dicionário baseado nos value\_counts() e depois jogar na função que criei 
 * Faixa etária nula
 * Dados que PODEM ser duplicatas
 
