@@ -1,9 +1,9 @@
-;id_tipo_quarto;descricao;capacidade_max;valor_diaria_base
-0;1;Standard;2;280.0
-1;2;Superior;2;420.0
-2;3;Deluxe;3;580.0
-3;4;Suite;4;950.0
-4;5;Suíte Master;4;1500.0
-6;6;Suíte Vista Mar;2;1620.0
-7;7;Suíte Master Copacabana;3;1780.0
-8;8;Cobertura Presidencial;4;1950.0
+id_tipo_quarto;descricao;capacidade_max;valor_diaria_base
+1;Standard;2;280.0
+2;Superior;2;420.0
+3;Deluxe;3;580.0
+4;Suite;4;950.0
+5;Suíte Master;4;1500.0
+6;Suíte Vista Mar;2;1620.0
+7;Suíte Master Copacabana;3;1780.0
+8;Cobertura Presidencial;4;1950.0
