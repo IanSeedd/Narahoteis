@@ -56,6 +56,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 55;Quezia Nunes;Curitiba;PR;65+;Corporativo
 56;Xuxa Farias;Salvador;BA;18-25;Corporativo
 57;Gustavo Vieira;Curitiba;PR;65+;Corporativo
+58;Abel Correia;Rio de Janeiro;RJ;46-55;Pessoa Física
 59;Thiago Matos;Fortaleza;CE;26-35;Corporativo
 60;Carlos Neto;São Paulo;SP;26-35;Corporativo
 61;Sara Teixeira;Salvador;BA;65+;Corporativo
@@ -91,6 +92,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 91;Wesley Araujo;Brasília;DF;46-55;Corporativo
 92;Henrique Rocha;Salvador;BA;56-65;Pessoa Física
 93;Gabriela Lima;Belo Horizonte;MG;Não Informado;Corporativo
+94;Rafael Cardoso;Fortaleza;CE;18-25;Corporativo
 95;Gabriela Lima;Rio de Janeiro;RJ;18-25;Corporativo
 96;Quezia Nunes;Rio de Janeiro;RJ;Não Informado;Pessoa Física
 97;João Pereira;Recife;PE;56-65;Corporativo
@@ -109,6 +111,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 110;Quincy Braga;Recife;PE;56-65;Pessoa Física
 111;Gustavo Vieira;Fortaleza;CE;18-25;Corporativo
 112;Otavio Reis;Fortaleza;CE;18-25;Pessoa Física
+113;Henrique Rocha;Recife;PE;Não Informado;Pessoa Física
 114;Felipe Oliveira;Salvador;BA;18-25;Corporativo
 115;Gustavo Vieira;Belo Horizonte;MG;36-45;Corporativo
 116;Yuri Castro;Recife;PE;56-65;Pessoa Física
@@ -149,6 +152,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 151;Ana Silva;Recife;PE;26-35;Corporativo
 152;Helena Borges;São Paulo;SP;65+;Pessoa Física
 153;Carlos Neto;Salvador;BA;26-35;Pessoa Física
+154;Daniela Ramos;São Paulo;SP;18-25;Pessoa Física
 155;Fernanda Cruz;Belo Horizonte;MG;46-55;Pessoa Física
 156;Rafael Cardoso;Recife;PE;65+;Corporativo
 157;Gabriela Lima;Curitiba;PR;65+;Pessoa Física
@@ -157,6 +161,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 160;Felipe Oliveira;Belo Horizonte;MG;18-25;Pessoa Física
 161;Julia Monteiro;Recife;PE;56-65;Corporativo
 162;Ulisses Brito;Fortaleza;CE;36-45;Corporativo
+163;Olivia Freitas;Curitiba;PR;18-25;Corporativo
 164;Beatriz Dias;Rio de Janeiro;RJ;56-65;Pessoa Física
 165;Lucas Souza;Belo Horizonte;MG;65+;Corporativo
 166;Kleber Pires;Curitiba;PR;Não Informado;Pessoa Física
@@ -218,6 +223,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 222;Henrique Rocha;Salvador;BA;65+;Pessoa Física
 223;Ximena Godoi;Fortaleza;CE;65+;Corporativo
 224;Marina Barbosa;São Paulo;SP;26-35;Pessoa Física
+225;Roberta Leite;Salvador;BA;36-45;Corporativo
 226;Karen Alves;Curitiba;PR;65+;Pessoa Física
 227;Isabela Martins;Belo Horizonte;MG;46-55;Pessoa Física
 228;Natalia Campos;Recife;PE;18-25;Corporativo
@@ -248,6 +254,7 @@ id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
 253;João Pereira;Rio de Janeiro;RJ;65+;Pessoa Física
 254;Carlos Neto;Fortaleza;CE;46-55;Pessoa Física
 255;Vanessa Cavalcanti;Fortaleza;CE;18-25;Pessoa Física
+256;Helena Borges;Salvador;BA;36-45;Pessoa Física
 257;Natalia Campos;Salvador;BA;26-35;Pessoa Física
 258;Ximena Godoi;Salvador;BA;65+;Pessoa Física
 259;Sara Teixeira;Belo Horizonte;MG;56-65;Corporativo
