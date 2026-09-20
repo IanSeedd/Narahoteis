@@ -70,44 +70,43 @@ CREATE TABLE reservas (
 
 SET GLOBAL local_infile = 1;
 
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/canais.csv"
+-- Só colar o resto do caminho atras do narahoteis/dados/
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/canais.csv"
 INTO TABLE canais
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
 IGNORE 1 ROWS
 (id, nome, comissao);
 
-SELECT * FROM canais;
-
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/unidades.csv"
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/unidades.csv"
 INTO TABLE unidades
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
 IGNORE 1 ROWS
 (id, nome, cidade, regiao, categoria, num_quartos_total);
 
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/tipos_quarto.csv"
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/tipos_quarto.csv"
 INTO TABLE tipos_quarto
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
 IGNORE 1 ROWS
 (id, descricao, capacidade_max, valor_diaria);
 
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/clientes.csv"
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/clientes.csv"
 INTO TABLE clientes
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
 IGNORE 1 ROWS
 (id, nome, cidade_origem, estado_origem, faixa_etaria, tipo_cliente);
 
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/funcionarios.csv"
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/funcionarios.csv"
 INTO TABLE funcionarios
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
 IGNORE 1 ROWS
 (id, id_unidade, nome, cargo, departamento, salario, data_admissao);
 
-LOAD DATA INFILE "C:/Users/ian.iannacconi.SENACRJEDU/Documents/narahoteis/dados/clean/reservas.csv"
+LOAD DATA LOCAL INFILE "narahoteis/dados/clean/reservas.csv"
 INTO TABLE reservas
 FIELDS TERMINATED BY ";"
 LINES TERMINATED BY "\n"
