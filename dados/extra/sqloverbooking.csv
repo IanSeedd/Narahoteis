@@ -1,0 +1,11 @@
+id,nome,num_quartos_total,data_checkin,quartos_ocupados,taxa_ocupacao_semNS_percent
+3,"NaraHoteis Centro",60,2024-01-15,79,131.67
+5,"NaraHoteis Nova Iguaçu Centro",50,2024-06-15,64,128.00
+5,"NaraHoteis Nova Iguaçu Centro",50,2023-10-15,62,124.00
+3,"NaraHoteis Centro",60,2023-07-15,74,123.33
+5,"NaraHoteis Nova Iguaçu Centro",50,2026-02-05,57,114.00
+5,"NaraHoteis Nova Iguaçu Centro",50,2025-05-31,57,114.00
+13,"NaraHoteis Copacabana Premium",40,2026-04-16,45,112.50
+13,"NaraHoteis Copacabana Premium",40,2025-07-20,45,112.50
+3,"NaraHoteis Centro",60,2025-11-07,65,108.33
+3,"NaraHoteis Centro",60,2025-04-01,65,108.33
